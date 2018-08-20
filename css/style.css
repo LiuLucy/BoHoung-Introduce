@@ -1,0 +1,9 @@
+body{
+    height: 10000px;
+    background-color: rgb(142, 135, 135);
+}
+.Girl{
+    position: fixed;
+    top:25%;
+    width:20em;
+}
